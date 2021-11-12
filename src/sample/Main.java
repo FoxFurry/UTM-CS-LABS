@@ -25,7 +25,7 @@ import java.util.Objects;
 import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-import java.policie.enforce;
+import java.policies.enforce;
 
 public class Main extends Application {
     List<String> policies;
